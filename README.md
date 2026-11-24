@@ -1,7 +1,5 @@
 # Hi, I'm CodeWhisker 👋
 
-🤙 About Me
-
 I'm a software engineer specializing in building full-stack web and mobile applications.
 
 Turning ideas into products — from pixel to production. 🚀
