@@ -1,6 +1,10 @@
 # Hi, I'm CodeWhisker 👋
 
-Software engineer focused on building scalable full-stack web and mobile applications, from responsive front ends to robust back ends and cross-platform mobile apps.
+🤙 About Me
+
+I'm a software engineer specializing in building full-stack web and mobile applications.
+
+Turning ideas into products — from pixel to production. 🚀
 
 
 
